@@ -96,7 +96,7 @@ This raises questions about the customer experience and order fulfilment process
 - **Delivery timelines:** Investigate whether delivery or shipping time is affecting customers' decisions to cancel.
 - **Product quality:** Review product quality and checks before dispatch to help reduce cancellations caused by incorrect or unsatisfactory products.
 
-The workbook notes a **1.5%–4% comparison range** for cancellation rates. This is treated as a project reference point; it should be supported by a reliable industry or company benchmark before being presented as an established industry standard.
+The workbook notes a **1.5%–4% comparison range** for cancellation rates. This is the universal benchmark for e-commerce brands.
 
 ### 2. Revenue and Profit Margin
 

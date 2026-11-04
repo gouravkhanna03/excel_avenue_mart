@@ -2,7 +2,9 @@
 
 An end-to-end Microsoft Excel project focused on preparing retail sales data, analysing business performance, and presenting findings through an interactive dashboard.
 
-## Project Overview
+---
+
+## 📊 Project Overview
 
 Avenue Mart is a fictional retail business used for this portfolio project. The workbook takes raw sales order data through a data-cleaning process and turns it into PivotTable summaries and an interactive dashboard.
 
@@ -10,7 +12,11 @@ The project demonstrates how Excel can be used not only to organize and analyse 
 
 > **Dataset disclosure:** This project uses synthetic data created for portfolio practice. Avenue Mart is fictional, and the customer details do not represent real people or transactions.
 
-## Data Preparation and Cleaning
+![Dashboard Preview](dashboard_preview/screenshot.png)
+
+---
+
+## 📈 Data Preparation and Cleaning
 
 The workbook follows a simple Bronze-to-Silver data preparation approach.
 
@@ -40,7 +46,12 @@ The following transformations were documented in Power Query:
 
 The Bronze sheet is retained separately so the original source data remains available for comparison.
 
-## Tools and Excel Features
+📊 **Total Rows:** ~2900+ across all tables  
+📅 **Time Range:** 2024-2025
+
+---
+
+## 💻 Tools and Excel Features
 
 - **Microsoft Excel**
 - **Power Query** for data cleaning and transformation
@@ -49,7 +60,9 @@ The Bronze sheet is retained separately so the original source data remains avai
 - **Slicers** for interactive filtering
 - **KPI calculations** for revenue, cost, profit, and profit margin
 
-## Dashboard
+---
+
+## 🪟 Dashboard
 
 The dashboard brings the analysis together in one interactive view.
 
@@ -80,7 +93,9 @@ Users can filter the dashboard using:
 
 The slicers make it possible to explore how sales performance changes across different periods, regions, and payment methods.
 
-## Understanding Core Business Problem
+---
+
+## 👨‍💻 Understanding Core Business Problem
 
 A retail business needs a clear view of its sales performance and the factors that may be affecting orders and profitability. Raw transaction data alone does not make it easy to identify patterns, compare performance, or spot operational concerns.
 
@@ -112,7 +127,9 @@ Possible actions to investigate include:
 
 These observations are intended to guide further business investigation; they do not establish the causes of cancellations or the change in order volume.
 
-## Workbook Structure
+---
+
+## ⛓️‍💥 Workbook Structure
 
 | Worksheet | Description |
 |---|---|
@@ -122,7 +139,9 @@ These observations are intended to guide further business investigation; they do
 | `Pivot_Table` | PivotTable summaries and supporting calculations |
 | `Dashboard` | Interactive sales and performance dashboard |
 
-## How to Explore the Project
+---
+
+## ⚙️ How to Explore the Project
 
 1. Download the Excel workbook from this repository.
 2. Open it in the desktop version of Microsoft Excel.
@@ -133,19 +152,21 @@ These observations are intended to guide further business investigation; they do
 
 If you make changes to the source data or Power Query steps, refresh the queries and PivotTables to update the analysis. Some Excel features, including slicers and PivotTables, are best explored in desktop Excel.
 
-## Repository Contents
+---
+
+## 📂 Repository Contents
 
 ```text
-avenue-mart-sales-performance/
+excel_avenue_mart/
 ├── README.md
-├── Avenue_Mart_Sales_Performance.xlsx
-└── screenshots/
-    ├── avenue-mart-dashboard.png
-    ├── avenue-mart-data-cleaning.png
-    └── avenue-mart-pivot-analysis.png
+├── avenuemart_sales_performance_excel_project.xlsx
+└── dashboard_preview/
+    ├── avenuemart_sales_performance.pdf
+    ├── screenshot.png
 ```
+---
 
-## Project Takeaways
+## 🗃️ Project Takeaways
 
 Through this project, I practised:
 
@@ -156,10 +177,14 @@ Through this project, I practised:
 - Interpreting revenue, profit margin, order trends, and cancellation patterns.
 - Translating analysis into business questions and possible recommendations.
 
-## Author
+---
 
-**Gaurav Khanna**
+## 🧑‍💼 Author
+Hi, I’m **Gaurav Khanna**, a Data Analyst passionate about turning complex data into simple, impactful insights.  
+Skilled in **Power BI, SQL, Excel, and Python**, I love building dashboards that tell a story and uncover hidden trends.
 
-- [LinkedIn](https://www.linkedin.com/in/gauravkhanna03)
-- [Portfolio](https://gouravkhanna03.github.io/portfolio/)
-- [GitHub](https://github.com/gouravkhanna03)
+## 🤝 Connect with Me
+
+🌐 **Portfolio:** [https://gouravkhanna03.github.io/portfolio/]  
+💼 **LinkedIn:** [(https://www.linkedin.com/in/gauravkhanna03/)]  
+🧑‍💼**GitHub:** [https://github.com/gouravkhanna03]

@@ -80,7 +80,7 @@ Users can filter the dashboard using:
 
 The slicers make it possible to explore how sales performance changes across different periods, regions, and payment methods.
 
-## Business Problem
+## Understanding Core Business Problem
 
 A retail business needs a clear view of its sales performance and the factors that may be affecting orders and profitability. Raw transaction data alone does not make it easy to identify patterns, compare performance, or spot operational concerns.
 
